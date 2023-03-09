@@ -54,4 +54,16 @@ html {
     padding: 50px;
     background-color: rgb(255, 255, 255);
     font-family: Arial, Helvetica, sans-serif;
-  }
+}
+img {
+    width: 100%;
+    border-radius: 10px;
+}
+.source {
+    color: darkgrey;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p {
+    font-size: 20px;
+}
